@@ -29,7 +29,7 @@ Die Parameter "{lat}" und "{long}" stehen dabei für die oben erwähnten Längen
 erwähnten API Schlüssel.
 Je nach Anforderung können noch weitere Parameter zu jeder Abfrage mitgegeben werden. Für unseren Anwendungsfall reicht jedoch ein Standardaufruf.
 
-Ein Beispielaufruf ist in der Datei "##########" zu finden.
+Ein Beispielaufruf ist in der Datei "example.json" zu finden.
 
 
 ## Projektüberblick
