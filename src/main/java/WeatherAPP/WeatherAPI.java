@@ -15,7 +15,7 @@ public class WeatherAPI {
 
     // Constants for the API base URL and the API key
     private static final String BASE_URL = "https://api.openweathermap.org/data/3.0/onecall";
-    private static final String API_KEY = "f6be1c5022d2600660733e126ce43d60"; // Replace with own API key
+    private static final String API_KEY = "*******************"; // 
 
     /**
      * Fetches weather data for a specific geographic location using OpenWeatherMap API.
